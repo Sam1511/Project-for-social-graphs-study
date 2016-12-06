@@ -1,4 +1,4 @@
-# project-for-social-graphs-study
+# Project-for-social-graphs-study
 
 * **Look into the wiki for elaborate project descriptions and visualizations.**
 
