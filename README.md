@@ -5,6 +5,5 @@
 
 
 * **Look into the explainer notebook 
-[link text itself]: http://www.reddit.com
-https://github.com/Sam1511/project-for-social-graphs-study/blob/tester/explainer_notebook-Copy2.ipynb for all the process behind getting the data and subsequent data-analysis**
+[link text itself]: http://www.reddit.com for all the process behind getting the data and subsequent data-analysis**
 
