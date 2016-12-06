@@ -5,5 +5,5 @@
 
 
 * **Look into the explainer notebook 
-[link text itself]: http://www.reddit.com for all the process behind getting the data and subsequent data-analysis**
+[I'm an inline-style link](https://www.google.com) for all the process behind getting the data and subsequent data-analysis**
 
