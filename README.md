@@ -1,6 +1,6 @@
 # project-for-social-graphs-study
 
-* **Look into the wiki for elaborate project descriptions and visualizations. **
+* **Look into the wiki for elaborate project descriptions and visualizations.**
 
 
 
